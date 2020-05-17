@@ -45,7 +45,7 @@ One more thing, especially important for startups, is setting traction goals whe
 
 ## Short takeaways from the book “Traction” on Bullseye Framework:
 
-[Detailed (16 min) article on main takeaways from **Traction Book](https://medium.com/@yegg/78-takeaways-from-traction-book-1b44d2a03dda)
+[Detailed (16 min) article on main takeaways from Traction Book](https://medium.com/@yegg/78-takeaways-from-traction-book-1b44d2a03dda)
 
 
 ## Book
