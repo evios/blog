@@ -6,9 +6,11 @@ I believe structured knowledge and process is the best way to increase the proba
 Framework for Revenue generation — sales process (for any business)
 Dave McClure, venture capitalist, angel investor, founder of startup accelerator 500 Startups, introduced the world to a 5-step framework for each business growth (in terms of generating revenue). That framework was called AARRR, or also the Pirate Metrics.
 
-![AARRR Framework](images/aarrr_framework.png)
+![AARRR Framework](images/aarrr.jpg)
 
-Detailed (15 min) article on AARRR describing all stages here:
+Detailed (11 min) article on AARRR describing all stages here:
+
+https://medium.com/@ms.mbalke/aarrr-framework-metrics-that-let-your-startup-sound-like-a-pirate-ship-e91d4082994b
 
 Acquire customers is the first step for every startup and entrepreneurship.
 Materials below dedicated to customer acquisition and sorted in a way to understand better.
