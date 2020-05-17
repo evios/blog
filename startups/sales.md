@@ -1,4 +1,4 @@
-# Sales:Acquisition. Framework for getting traction.
+# Sales: Acquisition. Framework for getting traction.
 
 #traction #revenue #business #entrepreneurship #startup #structuredsuccess #framework
 
