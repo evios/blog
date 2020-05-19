@@ -23,8 +23,10 @@
 * ### People & Culture
 
 * ### Product
+ * #### [Jobs To Be Done framework for product management (JTBD)](https://medium.com/@zhenya.iosifov/jobs-to-be-done-framework-for-product-management-jtbd-395ab03aff8f)
 
 * ### Fundraising
+ * #### [Metrics]()
 
 * ### Fundraising Docs
 
