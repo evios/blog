@@ -26,7 +26,7 @@
   * #### [Jobs To Be Done framework for product management (JTBD)](https://medium.com/@zhenya.iosifov/jobs-to-be-done-framework-for-product-management-jtbd-395ab03aff8f)
 
 * ### Fundraising
-  * #### [Metrics](startups/presentations/Presentation on Metrics.pdf)
+  * #### [Metrics](https://evios.github.io/startups/presentations/Presentation%20on%20Metrics.pdf)
 
 * ### Fundraising Docs
 
