@@ -2,6 +2,8 @@
 
 **Feel free to add materials and updates to current materials: [HERE](https://github.com/evios/evios.github.io/)**
 
+[**Guide on markdown format**](https://guides.github.com/features/mastering-markdown/)
+
 ## Startups
 [Assistant](https://ender.ai/startup_mentor/) that can help you find most relevant material based on your problem can be found in chatbot (in the bottom right corner)
 
