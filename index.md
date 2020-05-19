@@ -27,6 +27,8 @@
 
 * ### Fundraising
   * #### [Metrics](https://evios.github.io/startups/presentations/Presentation%20on%20Metrics.pdf)
+  * #### ![Metrics](startups/images/metrics_1.png)
+  * #### ![Metrics](startups/images/metrics_2.png)
 
 * ### Fundraising Docs
 
