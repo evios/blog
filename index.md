@@ -26,7 +26,7 @@
 
 * ### Product
   * #### [Jobs To Be Done framework for product management (JTBD)](https://medium.com/@zhenya.iosifov/jobs-to-be-done-framework-for-product-management-jtbd-395ab03aff8f)
-
+  * #### [Product Market Fit Measuring] (https://medium.com/@zhenya.iosifov/product-market-fit-pmf-evaluation-bfc036ed71aa?sk=9483b3b7f0d0d505fde1ce8f4132b868)
 * ### Fundraising
   * #### [Metrics](https://evios.github.io/startups/presentations/Presentation%20on%20Metrics.pdf)
   * #### ![Metrics](startups/images/metrics_1.png)
