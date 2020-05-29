@@ -47,6 +47,9 @@
 * ### Later Stage
 
 * ### Investing
+Evaluation frameworks:
+Scorecard Valuation
+Venture Capital method
 
 * ### Non-profits
 
@@ -59,3 +62,10 @@
 * ### Artificial Intelligence
 
 * ### Working at a Startup
+
+
+### Tools
+#TODO - move to Sales/Marketing subdir
+Marketing - creation cool content
+https://www.supa.ai/
+https://crello.com/
