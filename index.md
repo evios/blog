@@ -17,6 +17,10 @@
 
 * ### Sales & Marketing
   * #### [Startups Sales:Acquisition](https://evios.github.io/startups/sales)
+  * #### Customer Retention
+  https://cdn2.hubspot.net/hubfs/120299/SaaSFest_Presentations/SaaSFestPreso-Dan-RetentionIsKing.pdf?t=1513029751643
+  https://www.groovehq.com/support/great-examples-of-customer-onboarding
+  https://blog.hubspot.com/service/customer-onboarding
 
 * ### PR
 
